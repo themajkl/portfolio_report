@@ -1,26 +1,26 @@
 {
-  "generated_at_utc": "2026-11-26T05:32:20Z",
-  "eurusd": 1.0965,
-  "cash_usd_total": 944.19,
-  "positions_value_usd": 25069.44,
-  "portfolio_total_usd": 26013.63,
-  "day_change_usd": -405.81,
-  "day_change_pct": -1.59,
-  "total_pl_pct": -4.12,
+  "generated_at_utc": "2026-11-27T05:34:21Z",
+  "eurusd": 1.0985,
+  "cash_usd_total": 945.09,
+  "positions_value_usd": 25011.77,
+  "portfolio_total_usd": 25956.86,
+  "day_change_usd": -224.94,
+  "day_change_pct": -0.89,
+  "total_pl_pct": -4.35,
   "positions": [
     {
       "ticker": "AIXA",
       "company": "Aixtron SE",
       "currency": "EUR",
       "quantity": 42.0,
-      "date": "2026-11-24",
-      "close": 26.81,
-      "prev_close": 32.04,
-      "change_pct": -16.32,
-      "value_usd": 1234.67,
+      "date": "2026-11-25",
+      "close": 25.51,
+      "prev_close": 26.81,
+      "change_pct": -4.85,
+      "value_usd": 1177.0,
       "avg_buy_price": 31.7,
-      "pl_pct": -15.43,
-      "weight_pct": 4.75
+      "pl_pct": -19.53,
+      "weight_pct": 4.53
     },
     {
       "ticker": "NU",
@@ -34,7 +34,7 @@
       "value_usd": 3631.75,
       "avg_buy_price": 14.09,
       "pl_pct": -12.28,
-      "weight_pct": 13.96
+      "weight_pct": 13.99
     },
     {
       "ticker": "NVDA",
@@ -48,7 +48,7 @@
       "value_usd": 2818.95,
       "avg_buy_price": 183.9,
       "pl_pct": -18.81,
-      "weight_pct": 10.84
+      "weight_pct": 10.86
     },
     {
       "ticker": "AMAT",
@@ -62,7 +62,7 @@
       "value_usd": 2017.62,
       "avg_buy_price": 308.34,
       "pl_pct": 0.92,
-      "weight_pct": 7.76
+      "weight_pct": 7.77
     },
     {
       "ticker": "RR",
@@ -90,7 +90,7 @@
       "value_usd": 2484.56,
       "avg_buy_price": 728.48,
       "pl_pct": -16.28,
-      "weight_pct": 9.55
+      "weight_pct": 9.57
     },
     {
       "ticker": "AMZN",
@@ -104,7 +104,7 @@
       "value_usd": 1893.51,
       "avg_buy_price": 227.59,
       "pl_pct": 7.4,
-      "weight_pct": 7.28
+      "weight_pct": 7.29
     },
     {
       "ticker": "ASML",
@@ -118,7 +118,7 @@
       "value_usd": 3657.1,
       "avg_buy_price": 1179.74,
       "pl_pct": 10.45,
-      "weight_pct": 14.06
+      "weight_pct": 14.09
     },
     {
       "ticker": "GOOGL",
@@ -132,7 +132,7 @@
       "value_usd": 1795.31,
       "avg_buy_price": 249.75,
       "pl_pct": 9.35,
-      "weight_pct": 6.9
+      "weight_pct": 6.92
     },
     {
       "ticker": "BKNG",
@@ -188,7 +188,7 @@
       "value_usd": 3225.44,
       "avg_buy_price": 301.77,
       "pl_pct": 25.58,
-      "weight_pct": 12.4
+      "weight_pct": 12.43
     },
     {
       "ticker": "VST",
@@ -202,7 +202,7 @@
       "value_usd": 414.73,
       "avg_buy_price": 147.39,
       "pl_pct": -17.69,
-      "weight_pct": 1.59
+      "weight_pct": 1.6
     },
     {
       "ticker": "AVGO",
@@ -216,7 +216,7 @@
       "value_usd": 902.58,
       "avg_buy_price": 329.26,
       "pl_pct": -8.63,
-      "weight_pct": 3.47
+      "weight_pct": 3.48
     }
   ]
 }
